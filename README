@@ -8,3 +8,8 @@ and several others. Mikmod is a module player based on libmikmod.
 LICENSE:
 Mikmod player is is covered by the GNU General Public License v2.
 libmikmod is covered by the GNU Lesser General Public License v2.1.
+
+
+DOS BUILD:
+
+Go to DOS dir and run shell script. DOS build tools need to be setup for cross compilation first. 

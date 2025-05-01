@@ -20,21 +20,21 @@
 /*#define DRV_STDOUT*/
 
 /* Define if you want an .aiff file writer driver */
-#define DRV_AIFF
+//#define DRV_AIFF
 /* Define if you want a raw pcm data file writer driver */
-#define DRV_RAW
+//#define DRV_RAW
 /* Define if you want a .wav file writer driver */
-#define DRV_WAV
+//#define DRV_WAV
 
 /* Define if the Gravis UltraSound driver is compiled */
-#define DRV_ULTRA
+//#define DRV_ULTRA
 /* Define if the Windows Sound System driver is compiled */
-#define DRV_WSS
+//#define DRV_WSS
 /* Define if the SoundBlaster driver is compiled */
 #define DRV_SB
 
 /* Define if you want a debug version of the library */
-#undef MIKMOD_DEBUG
+//#undef MIKMOD_DEBUG
 
 /* Define if you have the ANSI C header files.  */
 #define STDC_HEADERS
